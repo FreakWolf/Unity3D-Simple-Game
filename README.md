@@ -16,9 +16,9 @@ To set up the project, follow the steps below:
 
 Here are some screenshots of the game:
 
-![Screenshot 1](/images/screenshot1.png)
-![Screenshot 2](/images/screenshot2.png)
-![Screenshot 3](/images/screenshot3.png)
+![Screenshot 1](Unity3D-Simple-Game/images/screenshot1.png)
+![Screenshot 2](Unity3D-Simple-Game/images/screenshot2.png)
+![Screenshot 3](Unity3D-Simple-Game/images/screenshot3.png)
 
 ## How to Play
 
